@@ -1,0 +1,11 @@
+{
+    "name": "riversiderocks/diskapi",
+    "description": "Create an API to get local storage space details",
+    "authors": [
+        {
+            "name": "Riverside Rocks",
+            "email": "trent@riverside.rocks"
+        }
+    ],
+    "require": {}
+}
